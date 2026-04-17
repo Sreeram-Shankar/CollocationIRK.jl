@@ -1,6 +1,6 @@
 name = "CollocationIRK"
 uuid = "3779a08a-8b2c-4d19-ac40-7acb68237a94"
-version = "0.1.0"
+version = "0.1.1"
 authors = ["Sreeram Shankar"]
 
 [deps]
